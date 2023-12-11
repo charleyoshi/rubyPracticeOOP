@@ -1,5 +1,6 @@
-3 classes: Game, Board, Player
-1 module: UserInputHelper
+###  Contents
+- 3 classes: Game, Board, Player
+- 1 module: UserInputHelper
 
-Start playing:
-run `ruby game.rb`
+###  Run
+To start playing, run `ruby game.rb`
